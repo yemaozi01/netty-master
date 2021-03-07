@@ -1,4 +1,4 @@
-package com.netty.chapter_7_netty_messagepack;
+package com.netty.chapter_7_netty_messagepack_2;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
